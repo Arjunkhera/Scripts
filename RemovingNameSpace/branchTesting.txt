@@ -1,0 +1,3 @@
+Random test
+
+And this line is for checking merging in git
